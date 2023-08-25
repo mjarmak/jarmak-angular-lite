@@ -25,7 +25,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss",
+              "src/assets/sass/now-ui-kit.scss"
             ],
             "scripts": []
           },
@@ -87,12 +88,15 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "527415fb-7cf4-4bbc-817a-cb0c4576cfec"
   }
 }
